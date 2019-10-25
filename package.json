@@ -1,0 +1,20 @@
+{
+  "name": "json_compare",
+  "version": "1.0.0",
+  "description": "簡易比對 JSON 的工具",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "jcm": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pvt5r486@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}

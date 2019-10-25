@@ -1,0 +1,2 @@
+npm link
+pause
